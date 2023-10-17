@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [17/Oct/2023:08:32:26 -0300] "GET /gerenciador HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Oct/2023:08:32:26 -0300] "GET /gerenciador/ HTTP/1.1" 200 267
+0:0:0:0:0:0:0:1 - - [17/Oct/2023:08:32:26 -0300] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Oct/2023:08:32:46 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 500 3915
+0:0:0:0:0:0:0:1 - - [17/Oct/2023:08:32:50 -0300] "GET /gerenciador/listaEmpresa HTTP/1.1" 404 791
